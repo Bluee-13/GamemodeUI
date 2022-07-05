@@ -1,4 +1,4 @@
-# GamemodeUI
+# Bluee Gmdui
 
 [![](https://poggit.pmmp.io/shield.state/GamemodeUI)](https://poggit.pmmp.io/p/GamemodeUI)
 
