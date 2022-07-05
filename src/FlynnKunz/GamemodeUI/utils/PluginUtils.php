@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace FlynnKunz\GamemodeUI\utils;
+namespace ItzBluee\GamemodeUI\utils;
 
 use pocketmine\player\Player;
 use pocketmine\Server;
@@ -12,7 +12,6 @@ use pocketmine\utils\TextFormat;
 use pocketmine\world\Position;
 use ReflectionClass;
 use pocketmine\network\mcpe\protocol\PlaySoundPacket;
-# PluginUtils by fernanACM
 
 class PluginUtils {
 
