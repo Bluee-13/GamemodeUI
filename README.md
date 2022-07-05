@@ -11,11 +11,12 @@
 ### 💾 Config
 ```yml
   # GamemodeUI plugin
-  # Made By FlynnKunz and fernanACM
+  # Made By FlyKunz , ItzBluee02
+  # Pliss Support My Youtube Ch ItzBluee02
 
   ##############################
 
-  # Use "§" as formatting codes
+  # Use "§" as formatting Colors
   # Use "\n" to break into new line
   # ======(PREFIX)======
   Prefix: "§l§7[§eGM§7]§8»§r "
@@ -26,23 +27,23 @@
     # Set The Content
     content: "§eSelect your game mode:"
     # Buttons
-    button-survival: "§2§lSurvival\n§r§0Tap To Change"
-    button-creative: "§2§lCreative\n§r§0Tap To Change"
-    button-adventure: "§2§lAdventure\n§r§0Tap To Change"
-    button-spectator: "§2§lSpectator\n§r§0Tap To Change"
-    button-exit: "§4§lEXIT§r\n§r§0Tap To Change"
+    button-survival: "§8§lSurvival\n§r§7Tap To Change"
+    button-creative: "§8§lCreative\n§r§7Tap To Change"
+    button-adventure: "§8§lAdventure\n§6§0Tap To Change"
+    button-spectator: "§8§lSpectator\n§r§7Tap To Change"
+    button-exit: "§4§lEXIT§r\n§r§7Tap To Change"
   
   Messages:
-    survival: "§eYour game mode has been changed to §dSURVIVAL"
-    creative: "§eYour game mode has been changed to §dCREATIVE"
-    adventure: "§eYour game mode has been changed to §dADVENTURE"
-    spectator: "§eYour game mode has been changed to §dSPECTATOR"
+    survival: "§aYour game mode has been changed to §dSURVIVAL"
+    creative: "§aYour game mode has been changed to §dCREATIVE"
+    adventure: "§aYour game mode has been changed to §dADVENTURE"
+    spectator: "§aYour game mode has been changed to §dSPECTATOR"
 
   NoPermissionMessages:
-  survival: "Â§4You Dont Have Permission To Use This Commands"
-  creative: "Â§4You Dont Have Permission To Use This Commands"
-  adventure: "Â§4You Dont Have Permission To Use This Commands"
-  spectator: "Â§4You Dont Have Permission To Use This Commands"
+  survival: "Â§bYou Dont Have Permission To Use This Commands"
+  creative: "Â§bYou Dont Have Permission To Use This Commands"
+  adventure: "Â§bYou Dont Have Permission To Use This Commands"
+  spectator: "Â§bYou Dont Have Permission To Use This Commands"
 ```
 
 ### 💡 Implementations
@@ -54,4 +55,4 @@
 - Executing the command: ```gamemodeui.cmd```
 
 ### ✔ Credits
-* **[fernanACM](https://github.com/fernanACM)**
+* **[fernanACM , ItzBluee]()**
