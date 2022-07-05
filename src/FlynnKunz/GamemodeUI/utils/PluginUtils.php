@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace FlyKunz\GamemodeUI\utils;
+namespace FlynnKunz\GamemodeUI\utils;
 
 use pocketmine\player\Player;
 use pocketmine\Server;
