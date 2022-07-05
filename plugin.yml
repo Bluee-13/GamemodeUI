@@ -1,15 +1,15 @@
 name: GamemodeUI
-main: FlynnKunz\GamemodeUI\Main
+main: Bluee-13\GamemodeUI\Main
 version: 1.2
 api: 4.0.0
-authors: [FlynnKunz, fernanACM]
+authors: [FlynnKunz, ItzBluee02]
 description: "Change gamemode with ui"
-website: https://github.com/FlynnKunz/GamemodeUI
+website: https://github.com/Bluee-13/GamemodeUI
 
 commands:
   gamemodeui:
     description: "Open GamemodeUI"
-    aliases: [gmui]
+    aliases: [blueegmdui]
     permission: gamemodeui.cmd
    
 permissions:
