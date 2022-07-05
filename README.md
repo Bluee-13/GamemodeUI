@@ -1,9 +1,5 @@
 # Bluee Gmdui
 
-[![](https://poggit.pmmp.io/shield.state/GamemodeUI)](https://poggit.pmmp.io/p/GamemodeUI)
-
-[![](https://poggit.pmmp.io/shield.api/GamemodeUI)](https://poggit.pmmp.io/p/GamemodeUI)
-
 **A Plugin For Pocketmine-MP To Change Gamemode With UI**
 
 ![Captura de pantalla 2022-06-13 032031](https://user-images.githubusercontent.com/83558341/173310827-9b1e9821-bb36-4df0-85d6-5ecfeeee07a4.png)
